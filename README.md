@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aquademon&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquademon&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aquademon" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquademon&layout=compact&theme=algolia" alt="Top Languages" />
 </p>  
 
