@@ -63,26 +63,7 @@
 
 ## 🌟 Featured Projects  
 
-### 🚀 **[File Extension Converter](https://github.com/aquademon/file-extension-converter)**  
-A simple and efficient tool for converting file formats.  
-- **Tech Stack:** Python (Tkinter).  
-- **Key Features:**  
-  - User-friendly GUI.  
-  - Supports multiple file formats.  
-
-### 🌐 **[Task Manager API](https://github.com/aquademon/task-manager-api)**  
-A robust RESTful API for task management.  
-- **Tech Stack:** Node.js, Express, MongoDB.  
-- **Key Features:**  
-  - Secure JWT Authentication.  
-  - CRUD functionality for task management.  
-
-### 📊 **[Data Visualizer](https://github.com/aquademon/data-visualizer)**  
-An interactive platform for data visualization.  
-- **Tech Stack:** TypeScript, D3.js.  
-- **Key Features:**  
-  - Dynamic data updates.  
-  - Customizable charts and graphs.  
+> **Coming soon!** 🎉 I'm working on my new projects, stay tuned!
 
 ---
 
@@ -92,7 +73,6 @@ An interactive platform for data visualization.
   <a href="mailto:AquademonDevelopment@hotmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://instagram.com/aquademon.dev"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
 
 ---
