@@ -80,8 +80,7 @@
 ## 🏆 Achievements  
 
 - **🏅 Certified in:**  
-  - Node.js Web Programming (BTK Academy).  
-  - Advanced Python Programming (BTK Academy).  
+  - Node.js Web Programming (BTK Academy).   
 - **🌟 Open Source Contributions:** Regular contributor to various repositories and projects.  
 
 ---
